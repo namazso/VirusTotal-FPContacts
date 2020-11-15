@@ -12,8 +12,16 @@ These vendors don't provide any way to submit a false positive without making an
 * Sangfor Engine Zero ([login only](https://community.sangfor.com/forum.php?mod=viewthread&tid=3132))
 * SUPERAntiSpyware (via program interface)
 * TACHYON
-* TotalDefense ([can submit via landline call (WTF??)](https://support.totaldefense.com/hc/en-us/articles/228497367-What-Is-A-False-Positive-))
+* TotalDefense ([can submit via landline call WTF??](https://support.totaldefense.com/hc/en-us/articles/228497367-What-Is-A-False-Positive-))
 * Trustlook
+
+## How to send e-mails
+
+Most vendors ask you to zip up the sample with the password "infected". Use ZipCrypto and be sure to write down the password in the email too. A subject line like `False positive - <program name>` is preferred, as several vendors have automatic email rules for this.
+
+## Conditions / priority / contributing
+
+Only submission methods that require no active license, registration, download of a tool is listed. Anything not fulfilling this goes to the Wall of Shame. For ones that do have one of these, online forms are preferred over emails. If the email is linked on their website, the link is preferred since it contains format information.
 
 ## Table
 
@@ -85,7 +93,7 @@ I'd like to thank these sites for providing valuable information:
 
 * https://github.com/slolife/antivirus-false-positive-reports
 * https://www.starmessagesoftware.com/blog/report-submit-false-positive-antivirus-software
-* https://www.techsupportalert.com/content/how-report-malware-or-false-positives-multiple-antivirus-vendors.htm#Immunet_Protect
+* https://www.techsupportalert.com/content/how-report-malware-or-false-positives-multiple-antivirus-vendors.htm
 * https://pastebin.com/cj746RvK
 * https://straighttips.blogspot.com/2019/12/virustotal-report-false-positives.html
 * https://github.com/alternat0r/List-of-Antivirus-Labs-Email-for-Malware-Submission
