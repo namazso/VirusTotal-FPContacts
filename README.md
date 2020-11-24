@@ -65,7 +65,7 @@ Only submission methods that require no active license, registration, download o
 | Kingsoft | operation@cmcm.com |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com ([with program](https://www.maxpcsecure.com/support/spywaredetector/submitSamples.htm)) |
-| McAfee | virus_research@mcafee.com |
+| McAfee | virus_research@avertlabs.com |
 | McAfee-GW-Edition | virus_research_gateway@avertlabs.com
 | Microsoft | avsubmit@submit.microsoft.com (or [login only](https://www.microsoft.com/en-us/wdsi/filesubmission?persona=SoftwareDeveloper)) |
 | NANO-Antivirus | https://www.nanoav.pro/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en |
