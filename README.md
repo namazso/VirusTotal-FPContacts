@@ -4,6 +4,7 @@
 
 These vendors don't provide any way to submit a false positive without making an account, or at all.
 
+* Alibaba (virustotal@list.alibaba-inc.com rejected my mail as spam)
 * AhnLab-V3 ([login only](https://global.ahnlab.com/site/support/virusreport/virusReport.do))
 * ALYac ([requires program](https://en.estsecurity.com/support/report))
 * Cynet
@@ -30,7 +31,6 @@ Only submission methods that require no active license, registration, download o
 | Acronis | https://kb.acronis.com/content/62189 |
 | Ad-Aware | https://www.adaware.com/report-false-positives |
 | AegisLab | https://www.aegislab.com/reportfp/ |
-| Alibaba | virustotal@list.alibaba-inc.com |
 | Antiy-AVL | https://www.antiy.net/contacts/ |
 | SecureAge APEX | https://uav.secureage.com/falsepositive/ |
 | Arcabit | virus@arcabit.com |
