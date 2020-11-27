@@ -9,7 +9,7 @@ These vendors don't provide any way to submit a false positive without making an
 * ALYac ([requires program](https://en.estsecurity.com/support/report))
 * Cynet
 * Elastic
-* Malwarebytes
+* Malwarebytes ([login only](https://forums.malwarebytes.com/forum/122-false-positives/))
 * Sangfor Engine Zero ([login only](https://community.sangfor.com/forum.php?mod=viewthread&tid=3132))
 * SUPERAntiSpyware (via program interface)
 * TACHYON
