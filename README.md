@@ -71,7 +71,7 @@ Only submission methods that require no active license, registration, download o
 | NANO-Antivirus | https://www.nanoav.pro/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en |
 | Palo Alto | vt-pan-false-positive@paloaltonetworks.com |
 | Panda | https://www.pandasecurity.com/usa/homeusers/support/contact.htm?ts=1 |
-| Qihoo-360 | https://www.360totalsecurity.com/en/suspicion/ |
+| Qihoo-360 | https://www.360totalsecurity.com/en/suspicion/false-positive/ |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
 | SentinelOne | report@sentinelone.com |
 | Sophos | samples@sophos.com |
