@@ -2,7 +2,7 @@
 
 ## Wall of Shame
 
-These vendors don't provide any way to submit a false positive without making an account, or at all.
+These vendors don't provide a free and registration-less way to submit false positives via HTTP or e-mail.
 
 * Alibaba (virustotal@list.alibaba-inc.com rejected my mail as spam)
 * AhnLab-V3 ([login only](https://global.ahnlab.com/site/support/virusreport/virusReport.do))
