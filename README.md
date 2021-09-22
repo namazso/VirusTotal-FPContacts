@@ -9,6 +9,7 @@ These vendors don't provide a free and registration-less way to submit false pos
 * ALYac ([requires program](https://en.estsecurity.com/support/report))
 * Cynet
 * Elastic
+* Kingsoft (operation@cmcm.com bounces with user not found)
 * Malwarebytes ([login only](https://forums.malwarebytes.com/forum/122-false-positives/))
 * Sangfor Engine Zero ([login only](https://community.sangfor.com/forum.php?mod=viewthread&tid=3132))
 * SUPERAntiSpyware (via program interface)
@@ -62,7 +63,6 @@ Only submission methods that require no active license, registration, download o
 | Jiangmin | support@jiangmin.com |
 | K7AntiVirus / K7GW | k7viruslab@k7computing.com |
 | Kaspersky | https://opentip.kaspersky.com/ |
-| Kingsoft | operation@cmcm.com |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com ([with program](https://www.maxpcsecure.com/support/spywaredetector/submitSamples.htm)) |
 | McAfee | virus_research@avertlabs.com |
