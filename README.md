@@ -63,6 +63,7 @@ Only submission methods that require no active license, registration, download o
 | Jiangmin | support@jiangmin.com |
 | K7AntiVirus / K7GW | k7viruslab@k7computing.com |
 | Kaspersky | https://opentip.kaspersky.com/ |
+| Lionic | support@lionic.com |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com ([with program](https://www.maxpcsecure.com/support/spywaredetector/submitSamples.htm)) |
 | McAfee | virus_research@avertlabs.com |
