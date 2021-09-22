@@ -7,6 +7,7 @@ These vendors don't provide a free and registration-less way to submit false pos
 * Alibaba (virustotal@list.alibaba-inc.com rejected my mail as spam)
 * AhnLab-V3 ([login only](https://global.ahnlab.com/site/support/virusreport/virusReport.do))
 * ALYac ([requires program](https://en.estsecurity.com/support/report))
+* Baidu (bav@baidu.com bounces with user not found)
 * Cynet
 * Elastic
 * Kingsoft (operation@cmcm.com bounces with user not found)
@@ -38,7 +39,6 @@ Only submission methods that require no active license, registration, download o
 | Avast | https://www.avast.com/false-positive-file-form.php |
 | AVG | https://www.avg.com/en-us/false-positive-file-form |
 | Avira | https://www.avira.com/en/analysis/submit |
-| Baidu | bav@baidu.com |
 | BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/ |
 | Bkav | bkav@bkav.com.vn |
 | CAT-QuickHeal | https://www.quickheal.com/submitticket/ |
