@@ -7,16 +7,18 @@ These vendors don't provide a free and registration-less way to submit false pos
 * Alibaba (virustotal@list.alibaba-inc.com rejected my mail as spam)
 * AhnLab-V3 ([login only](https://global.ahnlab.com/site/support/virusreport/virusReport.do))
 * ALYac ([requires program](https://en.estsecurity.com/support/report))
-* Baidu (bav@baidu.com bounces with user not found)
+* Baidu (bav@baidu.com bounces with user not found [#1](https://github.com/namazso/VirusTotal-FPContacts/issues/1))
 * Cynet
 * Elastic
-* Kingsoft (operation@cmcm.com bounces with user not found)
+* Kingsoft (operation@cmcm.com bounces with user not found [#3](https://github.com/namazso/VirusTotal-FPContacts/issues/3))
+* Lionic (contact email is support@lionic.com but it will sign you up for spam [#4](https://github.com/namazso/VirusTotal-FPContacts/issues/4))
 * Malwarebytes ([login only](https://forums.malwarebytes.com/forum/122-false-positives/))
 * Sangfor Engine Zero ([login only](https://community.sangfor.com/forum.php?mod=viewthread&tid=3132))
 * SUPERAntiSpyware (via program interface)
 * TACHYON
 * TotalDefense ([can submit via landline call WTF??](https://support.totaldefense.com/hc/en-us/articles/228497367-What-Is-A-False-Positive-))
 * Trustlook
+* Yandex (yandex-antivir@support.yandex.ru rejects mails [#4](https://github.com/namazso/VirusTotal-FPContacts/issues/4))
 
 ## How to send e-mails
 
@@ -61,9 +63,8 @@ Only submission methods that require no active license, registration, download o
 | Gridinsoft | https://anti-malware.gridinsoft.com/file-check/ |
 | Ikarus | probe@ikarus.at |
 | Jiangmin | support@jiangmin.com |
-| K7AntiVirus / K7GW | k7viruslab@k7computing.com |
+| K7AntiVirus / K7GW | support@k7computing.com |
 | Kaspersky | https://opentip.kaspersky.com/ |
-| Lionic | support@lionic.com |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com ([with program](https://www.maxpcsecure.com/support/spywaredetector/submitSamples.htm)) |
 | McAfee | virus_research@avertlabs.com |
@@ -84,8 +85,8 @@ Only submission methods that require no active license, registration, download o
 | VIPRE | https://www.vipre.com/support/submit-false-positive/ |
 | ViRobot | viruslab@hauri.co.kr |
 | WebRoot | https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
-| Yandex | yandex-antivir@support.yandex.ru |
 | Zillya | antivirus@zillya.com |
+| ZoneAlarm | https://opentip.kaspersky.com/ |
 | Zoner | false@zonerantivirus.com |
 
 ## Sources
