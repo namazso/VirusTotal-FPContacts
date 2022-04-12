@@ -11,7 +11,6 @@ These vendors don't provide a free and registration-less way to submit false pos
 * Cynet
 * Elastic
 * Kingsoft (operation@cmcm.com bounces with user not found [#3](https://github.com/namazso/VirusTotal-FPContacts/issues/3))
-* Lionic (contact email is support@lionic.com but it will sign you up for spam [#4](https://github.com/namazso/VirusTotal-FPContacts/issues/4))
 * Malwarebytes ([login only](https://forums.malwarebytes.com/forum/122-false-positives/))
 * Sangfor Engine Zero ([login only](https://community.sangfor.com/forum.php?mod=viewthread&tid=3132))
 * SUPERAntiSpyware (via program interface)
@@ -34,7 +33,6 @@ Only submission methods that require no active license, registration, download o
 | ------- | ---- |
 | Acronis | https://kb.acronis.com/content/62189 |
 | Ad-Aware | https://www.adaware.com/report-false-positives |
-| AegisLab | https://www.aegislab.com/reportfp/ |
 | Antiy-AVL | https://www.antiy.net/contacts/ |
 | SecureAge APEX | https://uav.secureage.com/falsepositive/ |
 | Arcabit | virus@arcabit.com |
@@ -65,6 +63,7 @@ Only submission methods that require no active license, registration, download o
 | Jiangmin | support@jiangmin.com |
 | K7AntiVirus / K7GW | support@k7computing.com |
 | Kaspersky | https://opentip.kaspersky.com/ |
+| Lionic | https://www.lionic.com/reportfp/ |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com ([with program](https://www.maxpcsecure.com/support/spywaredetector/submitSamples.htm)) |
 | McAfee | virus_research@avertlabs.com |
