@@ -81,6 +81,7 @@ Only submission methods that require no active license, registration, download o
 | Trapmine | fp@trapmine.com |
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html |
 | VBA32 | feedback@anti-virus.by |
+| VirIT | https://www.tgsoft.it/clienti/inviaFile.asp |
 | VIPRE | https://www.vipre.com/support/submit-false-positive/ |
 | ViRobot | viruslab@hauri.co.kr |
 | WebRoot | https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
