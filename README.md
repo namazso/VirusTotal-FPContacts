@@ -5,16 +5,11 @@
 These vendors don't provide a free and registration-less way to submit false positives via HTTP or e-mail.
 
 * Alibaba (virustotal@list.alibaba-inc.com rejected my mail as spam)
-* AhnLab-V3 ([login only](https://global.ahnlab.com/site/support/virusreport/virusReport.do))
-* ALYac ([requires program](https://en.estsecurity.com/support/report))
 * Baidu (bav@baidu.com bounces with user not found [#1](https://github.com/namazso/VirusTotal-FPContacts/issues/1))
 * Kingsoft (operation@cmcm.com bounces with user not found [#3](https://github.com/namazso/VirusTotal-FPContacts/issues/3))
 * Malwarebytes ([login only](https://forums.malwarebytes.com/forum/122-false-positives/))
-* Sangfor Engine Zero ([login only](https://community.sangfor.com/forum.php?mod=viewthread&tid=3132))
 * SUPERAntiSpyware (via program interface)
-* TACHYON
 * TotalDefense ([can submit via landline call WTF??](https://support.totaldefense.com/hc/en-us/articles/228497367-What-Is-A-False-Positive-))
-* Trustlook
 * Yandex (yandex-antivir@support.yandex.ru rejects mails [#4](https://github.com/namazso/VirusTotal-FPContacts/issues/4))
 
 ## How to send e-mails
@@ -31,6 +26,8 @@ Only submission methods that require no active license, registration, download o
 | ------- | ---- |
 | Acronis | https://kb.acronis.com/content/62189 |
 | Ad-Aware | https://www.adaware.com/report-false-positives |
+| AhnLab-V3 | v3sos@ahnlab.com |
+| ALYac | esrc@estsecurity.com |
 | Antiy-AVL | https://www.antiy.net/contacts/ |
 | SecureAge APEX | https://uav.secureage.com/falsepositive/ |
 | Arcabit | virus@arcabit.com |
@@ -38,11 +35,11 @@ Only submission methods that require no active license, registration, download o
 | AVG | https://www.avg.com/en-us/false-positive-file-form |
 | Avira | https://www.avira.com/en/analysis/submit |
 | BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/ |
-| Bkav | bkav@bkav.com.vn |
+| Bkav | fpreport@bkav.com, bkav@bkav.com, bkav@bkav.com.vn |
 | CAT-QuickHeal | https://www.quickheal.com/submitticket/ |
 | ClamAV | https://www.clamav.net/reports/fp or https://www.immunet.com/false_positive |
-| CMC | support.is@cmclab.net |
-| Comodo | https://www.comodo.com/home/internet-security/submit.php |
+| CMC | vulambang@cmcinfosec.com, support.is@cmclab.net |
+| Comodo | https://www.comodo.com/home/internet-security/submit.php falsepositive@avlab.comodo.com |
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | Cybereason | vt-feedback@cybereason.com |
 | Cylance | https://web.archive.org/web/20190929165253/https://home-support.cylance.com/hc/en-us/articles/360026236014-FAQ-VirusTotal-Inquiry |
@@ -74,11 +71,14 @@ Only submission methods that require no active license, registration, download o
 | Panda | https://www.pandasecurity.com/usa/homeusers/support/contact.htm?ts=1 |
 | Qihoo-360 | https://www.360totalsecurity.com/en/suspicion/false-positive/ |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
+| Sangfor Engine Zero | save@sangfor.com.cn |
 | SentinelOne | report@sentinelone.com |
 | Sophos | samples@sophos.com |
 | Symantec | https://symsubmit.symantec.com/ |
+| Tachyon | isarc@inca.co.kr (include detection name) |
 | Tencent | TAVfp@tencent.com |
-| Trapmine | fp@trapmine.com |
+| Trapmine | fp@trapmine.com 
+| Trustlook | bd@trustlook.com |
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html |
 | VBA32 | feedback@anti-virus.by |
 | VirIT | https://www.tgsoft.it/clienti/inviaFile.asp |
@@ -102,3 +102,5 @@ I'd like to thank these sites for providing valuable information:
 * https://ifreework.com/blog/soobshhit-o-lozhnom-srabatyvanii-antivirusa-na-vash-sajt/
 * https://pastebin.com/7p9M49s2
 * https://support.virustotal.com/hc/en-us/articles/115002146809-Contributors
+* https://github.com/yaronelh/False-Positive-Center
+* https://bitcoinissafe.com/antivirus-contact-list
