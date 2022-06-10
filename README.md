@@ -8,8 +8,6 @@ These vendors don't provide a free and registration-less way to submit false pos
 * AhnLab-V3 ([login only](https://global.ahnlab.com/site/support/virusreport/virusReport.do))
 * ALYac ([requires program](https://en.estsecurity.com/support/report))
 * Baidu (bav@baidu.com bounces with user not found [#1](https://github.com/namazso/VirusTotal-FPContacts/issues/1))
-* Cynet
-* Elastic
 * Kingsoft (operation@cmcm.com bounces with user not found [#3](https://github.com/namazso/VirusTotal-FPContacts/issues/3))
 * Malwarebytes ([login only](https://forums.malwarebytes.com/forum/122-false-positives/))
 * Sangfor Engine Zero ([login only](https://community.sangfor.com/forum.php?mod=viewthread&tid=3132))
@@ -48,9 +46,11 @@ Only submission methods that require no active license, registration, download o
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | Cybereason | vt-feedback@cybereason.com |
 | Cylance | https://web.archive.org/web/20190929165253/https://home-support.cylance.com/hc/en-us/articles/360026236014-FAQ-VirusTotal-Inquiry |
+| Cynet | soc@cynet.com |
 | Cyren | https://www.cyren.com/support/reporting-av-misclassifications |
 | DrWeb | https://vms.drweb.com/sendvirus/ |
 | eGambit | https://tehtris.com/en/false-positive-negative-requests/ |
+| Elastic | https://discuss.elastic.co/t/submitting-false-positives/232322 |
 | Emsisoft | fp@emsisoft.com |
 | eScan | fp@escanav.com |
 | ESET-NOD32 | https://support.eset.com/en/kb141-submit-a-virus-website-or-potential-false-positive-sample-to-the-eset-lab#SubmitFile |
@@ -58,7 +58,7 @@ Only submission methods that require no active license, registration, download o
 | FireEye | virustotal@fireeye.com |
 | Fortinet | submitvirus@fortinet.com |
 | GData | https://su.gdatasoftware.com/us/sample-submission/ |
-| Gridinsoft | https://anti-malware.gridinsoft.com/file-check/ |
+| Gridinsoft | https://anti-malware.gridinsoft.com/false-detect/ |
 | Ikarus | probe@ikarus.at |
 | Jiangmin | support@jiangmin.com |
 | K7AntiVirus / K7GW | support@k7computing.com |
