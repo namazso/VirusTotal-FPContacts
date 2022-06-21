@@ -6,6 +6,7 @@ These vendors don't provide a free and registration-less way to submit false pos
 
 * Alibaba (virustotal@list.alibaba-inc.com rejected my mail as spam)
 * Baidu (bav@baidu.com bounces with user not found [#1](https://github.com/namazso/VirusTotal-FPContacts/issues/1))
+* Cynet (soc@cynet.com is unresponsive)
 * Kingsoft (operation@cmcm.com bounces with user not found [#3](https://github.com/namazso/VirusTotal-FPContacts/issues/3))
 * Malwarebytes ([login only](https://forums.malwarebytes.com/forum/122-false-positives/))
 * SUPERAntiSpyware (via program interface)
@@ -43,7 +44,6 @@ Only submission methods that require no active license, registration, download o
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | Cybereason | vt-feedback@cybereason.com |
 | Cylance | https://web.archive.org/web/20190929165253/https://home-support.cylance.com/hc/en-us/articles/360026236014-FAQ-VirusTotal-Inquiry |
-| Cynet | soc@cynet.com |
 | Cyren | https://www.cyren.com/support/reporting-av-misclassifications |
 | DrWeb | https://vms.drweb.com/sendvirus/ |
 | eGambit | https://tehtris.com/en/false-positive-negative-requests/ |
