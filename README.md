@@ -57,7 +57,7 @@ Only submission methods that require no active license, registration, download o
 | GData | https://su.gdatasoftware.com/us/sample-submission/ |
 | Gridinsoft | https://anti-malware.gridinsoft.com/false-detect/ |
 | Ikarus | probe@ikarus.at |
-| Jiangmin | support@jiangmin.com |
+| Jiangmin | virus@jiangmin.com |
 | K7AntiVirus / K7GW | support@k7computing.com |
 | Kaspersky | https://opentip.kaspersky.com/ |
 | Lionic | https://www.lionic.com/reportfp/ |
