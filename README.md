@@ -38,6 +38,7 @@ Only submission methods that require no active license, registration, download o
 | BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/ |
 | Bkav | fpreport@bkav.com, bkav@bkav.com, bkav@bkav.com.vn |
 | CAT-QuickHeal | https://www.quickheal.com/submitticket/ |
+| Certego | fp@certego.net |
 | ClamAV | https://www.clamav.net/reports/fp or https://www.immunet.com/false_positive |
 | CMC | vulambang@cmcinfosec.com, support.is@cmclab.net |
 | Comodo | https://www.comodo.com/home/internet-security/submit.php falsepositive@avlab.comodo.com |
