@@ -45,6 +45,7 @@ Only submission methods that require no active license, registration, download o
 | Cybereason | vt-feedback@cybereason.com |
 | Cylance | https://web.archive.org/web/20190929165253/https://home-support.cylance.com/hc/en-us/articles/360026236014-FAQ-VirusTotal-Inquiry |
 | Cyren | https://www.cyren.com/support/reporting-av-misclassifications |
+| DeepInstinct | info@deepinstinct.com |
 | DrWeb | https://vms.drweb.com/sendvirus/ |
 | eGambit | https://tehtris.com/en/false-positive-negative-requests/ |
 | Elastic | https://discuss.elastic.co/t/submitting-false-positives/232322 |
